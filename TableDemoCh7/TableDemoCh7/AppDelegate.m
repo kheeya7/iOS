@@ -16,7 +16,7 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    NSLog(@"String for the test");
+    // kheeya7: Override point for customization after application launch.
     return YES;
 }
 
